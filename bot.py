@@ -6,7 +6,7 @@ from datetime import timedelta
 
 # 1. Настройка
 GROQ_API_KEY = "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"
-DISCORD_TOKEN = "MTUxNzA4MDA5MTg4NzI3NjA0Mw.GV40kI.dNTgzIBh1cao39dkAH6Sy2OQlSYNtcNT4_IfAA"
+DISCORD_TOKEN = "MTUxNzA4MDA5MTg4NzI3NjA0Mw.Gumxlu.kc83_MyNp-IrMTjKB9bKXxOAIRWt5zY1pI0Z4o"
 
 client = Groq(api_key=GROQ_API_KEY)
 chat_histories = {}
